@@ -145,12 +145,6 @@ function main() {
   }
 
   console.log(totalNum);
-  // console.log(
-  //   numsStrings.reduce((acc, curr) => {
-  //     return acc + Number.parseInt(curr);
-  //   }, 0)
-  // );
 }
 
 main();
-// test();
